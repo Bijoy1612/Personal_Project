@@ -1,2 +1,2 @@
 # Personal_Project
- Online BookShop Website
+ Online BookShop Website with Django and Python
